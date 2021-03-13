@@ -6,4 +6,5 @@ It's a Landing Page example made for training purposes, some topics were: <br />
 <li>Mobile first</li>
 </ul>
 <br />
+
 [Preview](https://arthurgc.github.io/Landing-Page-2.0/)
