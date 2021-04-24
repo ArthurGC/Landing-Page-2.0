@@ -11,7 +11,7 @@ body{
     color: #fff;
 }
 .header{
-    background-image: linear-gradient(to top, rgba(87, 82, 82, 0.692), rgba(49, 60, 212, 0.425)),url("/img/img1.png");
+    background-image: linear-gradient(to top, rgba(87, 82, 82, 0.692), rgba(49, 60, 212, 0.425)),url("./img/img1.png");
     background-position: center;
     background-repeat: no-repeat; 
     background-size: cover;
@@ -255,6 +255,7 @@ body{
     .section4__box__description{
         font-size: 1.2em;
     }
+<<<<<<< HEAD
     .section4__box{
         padding: 4rem 15rem;
     }
@@ -262,3 +263,6 @@ body{
         line-height: 2rem;
     }
 }
+=======
+}
+>>>>>>> e49ce65f1d115fa7691a04d4b2c63568c14c104f

@@ -1,10 +1,46 @@
-It's a Landing Page example made for training purposes, some topics were: <br />
-<ul>
-<li> Methodolgy BEM in html</li>
-<li> CSS flex tag and properties</li>
-<li>ResponsiveDesing</li>
-<li>Mobile first</li>
-</ul>
-<br />
+# Build Landing Page
 
-[Preview](https://arthurgc.github.io/Landing-Page-2.0/)
+Project of recreating Youtube video player only HTML and CSS.
+
+🔗 **Live preview:** [here](https://arthurgc.github.io/Landing-Page-2.0/)
+
+## Built with
+
+### Technologies
+
+* HTML
+* CSS
+
+### Tools
+
+* Visual Studio Code
+* Linux terminal
+* Git and GitHub
+
+## Outcome
+
+* Used CSS3 **Flexbox** to recreate navbar, icons and buttons.
+* Used **Embedded video and iframe** to show a video from Youtube.
+* Used **Git** and **GitHub** for project management.
+
+## Summary
+
+### What I learned
+
+* Better knowledge of **Git** and **GitHub**.
+* Fair understanding of **Flexbox** .
+* Comfort use of browser's **developer tools**.
+* **Methodolgy BEM** in html
+* **Responsive Desing**
+* **Mobile first**d
+
+### What could be improved
+
+* I feel that commits were not regular enough.
+* My commit messages are not perfect.
+* It's not responsive completely. It needs to be improved more.
+
+## Author
+
+👤 **ArthurGC**
+* GitHub: [ArthurFC](https://github.com/ArthurGC)
