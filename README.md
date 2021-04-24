@@ -19,8 +19,8 @@ Project of recreating Youtube video player only HTML and CSS.
 
 ## Outcome
 
-* Used CSS3 **Flexbox** to recreate navbar, icons and buttons.
-* Used **Embedded video and iframe** to show a video from Youtube.
+* Used CSS3 **Flexbox** to recreate some boxes.
+* Used **Grid** to customize sections and develop responsive design.
 * Used **Git** and **GitHub** for project management.
 
 ## Summary
@@ -38,7 +38,6 @@ Project of recreating Youtube video player only HTML and CSS.
 
 * I feel that commits were not regular enough.
 * My commit messages are not perfect.
-* It's not responsive completely. It needs to be improved more.
 
 ## Author
 
