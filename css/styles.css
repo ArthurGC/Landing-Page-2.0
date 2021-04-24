@@ -230,14 +230,19 @@ body{
     .section2__box__description{
         font-size: 1.2em;
     }
+    .section3{
+        padding: 5rem 20rem;
+    }
 
     .section3__titulo{
         font-size: 2em;
+        padding-bottom: 2rem;
     }
     .section3__description{
         font-size: 1.2em;
+        
     }
-    .section4{;
+    .section4{
         flex-direction: row;
         justify-content: center;
     }
@@ -249,5 +254,11 @@ body{
     }
     .section4__box__description{
         font-size: 1.2em;
+    }
+    .section4__box{
+        padding: 4rem 15rem;
+    }
+    p{
+        line-height: 2rem;
     }
 }
