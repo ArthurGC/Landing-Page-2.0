@@ -11,7 +11,7 @@ body{
     color: #fff;
 }
 .header{
-    background-image: linear-gradient(to top, rgba(87, 82, 82, 0.692), rgba(49, 60, 212, 0.425)),url("./img/img1.png");
+    background-image: linear-gradient(to top, rgba(87, 82, 82, 0.692), rgba(49, 60, 212, 0.425)),url('https://raw.githubusercontent.com/ArthurGC/Landing-Page-2.0/master/img/img1.png');
     background-position: center;
     background-repeat: no-repeat; 
     background-size: cover;
